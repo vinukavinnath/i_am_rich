@@ -1,16 +1,9 @@
 # i_am_rich
 
 A new Flutter project.
+Developed by Vinuka Vinnath.
 
-## Getting Started
+"I am Rich" was a IOS Mobile application that was developed by Armin Heinrich which was published on App Store for $999.99.
+That was app was consists of nothing but a shining red gem on the interface.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This application is also a basic demonstration of that applications and this was designed only for educational and developing purposes.
